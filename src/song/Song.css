@@ -1,0 +1,51 @@
+.card {
+    transition: 0.3s;
+    float: left;
+    color: white;
+    margin: 30px 10px 0px 10px;
+    border-top: 1px solid lightgray;
+    padding: 30px 0px 0px 0px;
+    width: 22.5%;
+}
+
+.card-image {
+  width: 100%;
+}
+
+.song_detail {
+  background-color: #1d1e1f;
+  padding: 15px;
+}
+
+.song_duration {
+  margin-left: 20px;
+  font-size: 13px;
+}
+
+.p_inline {
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 13px;
+}
+
+.play_pause_button {
+  cursor: pointer;
+  font-size: 13px;
+}
+
+@media (max-width: 1024px) {
+  .card {
+    width: 30.7% !important;
+  }
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 500px) {
+  .card {
+    margin: 30px 0px 0px 0px;
+    width: 100% !important;
+  }
+}

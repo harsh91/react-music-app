@@ -1,0 +1,51 @@
+.play_pause_button, .song_duration, .like_icon, .like_count, .comment_icon, .comment_count {
+  color: #5d5e5f;
+}
+
+.song_title {
+  color: #bdbebf;
+}
+
+.song_username {
+  color: #7d7e7f;
+  margin-bottom: 5px;
+}
+
+.song_title {
+  margin-bottom: 22px;
+}
+
+.like_icon_spacing, .comment_icon_spacing {
+  margin-left: 100px;
+}
+.like_count, .comment_count {
+  margin-left: 20px;
+}
+
+.search_song_item {
+  margin-top: 30px;
+  background: #1d1e1f;
+  padding-left: 0px;
+}
+
+.song_artWork_div {
+  float: left;
+  width: 220px;
+  padding: 0px;
+}
+
+.song_artWork {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.media_body {
+  padding: 20px;
+  width: none !important;
+}
+
+.visualizer {
+  height: 70px;
+  width: 100%;
+  margin-bottom: 25px;
+}

@@ -1,0 +1,21 @@
+.songlist {
+  width: 60% !important;
+}
+
+@media (max-width: 1024px) {
+  .songlist {
+    width: 80% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .songlist {
+    width: 80% !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .songlist {
+    width: 90% !important;
+  }
+}

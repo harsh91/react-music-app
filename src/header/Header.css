@@ -1,0 +1,19 @@
+.navbar-default {
+  background-color: #1d1e1f;
+}
+.img_brand {
+  width: 25px;
+}
+.search_button {
+  color: lightgray;
+  border: 0px !important;
+  background-color: transparent !important;
+}
+.header_container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.search_song_button {
+  cursor: pointer;
+  text-decoration: none;
+}
